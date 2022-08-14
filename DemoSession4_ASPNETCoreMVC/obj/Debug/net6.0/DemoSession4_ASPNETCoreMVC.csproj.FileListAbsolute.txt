@@ -1,0 +1,46 @@
+C:\Users\Admin\source\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\source\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\source\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\bin\Debug\net6.0\DemoSession4_ASPNETCoreMVC.exe
+C:\Users\Admin\source\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\bin\Debug\net6.0\DemoSession4_ASPNETCoreMVC.deps.json
+C:\Users\Admin\source\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\bin\Debug\net6.0\DemoSession4_ASPNETCoreMVC.runtimeconfig.json
+C:\Users\Admin\source\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\bin\Debug\net6.0\DemoSession4_ASPNETCoreMVC.dll
+C:\Users\Admin\source\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\bin\Debug\net6.0\DemoSession4_ASPNETCoreMVC.pdb
+C:\Users\Admin\source\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\DemoSession4_ASPNETCoreMVC.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\DemoSession4_ASPNETCoreMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\DemoSession4_ASPNETCoreMVC.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\DemoSession4_ASPNETCoreMVC.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\DemoSession4_ASPNETCoreMVC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\DemoSession4_ASPNETCoreMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\DemoSession4_ASPNETCoreMVC.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\DemoSession4_ASPNETCoreMVC.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\source\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\source\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\scopedcss\bundle\DemoSession4_ASPNETCoreMVC.styles.css
+C:\Users\Admin\source\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\DemoSession4_ASPNETCoreMVC.dll
+C:\Users\Admin\source\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\refint\DemoSession4_ASPNETCoreMVC.dll
+C:\Users\Admin\source\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\DemoSession4_ASPNETCoreMVC.pdb
+C:\Users\Admin\source\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\DemoSession4_ASPNETCoreMVC.genruntimeconfig.cache
+C:\Users\Admin\source\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\ref\DemoSession4_ASPNETCoreMVC.dll
+E:\FPT Aptech\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\bin\Debug\net6.0\appsettings.Development.json
+E:\FPT Aptech\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\bin\Debug\net6.0\appsettings.json
+E:\FPT Aptech\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\bin\Debug\net6.0\DemoSession4_ASPNETCoreMVC.exe
+E:\FPT Aptech\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\bin\Debug\net6.0\DemoSession4_ASPNETCoreMVC.deps.json
+E:\FPT Aptech\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\bin\Debug\net6.0\DemoSession4_ASPNETCoreMVC.runtimeconfig.json
+E:\FPT Aptech\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\bin\Debug\net6.0\DemoSession4_ASPNETCoreMVC.dll
+E:\FPT Aptech\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\bin\Debug\net6.0\DemoSession4_ASPNETCoreMVC.pdb
+E:\FPT Aptech\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\DemoSession4_ASPNETCoreMVC.csproj.AssemblyReference.cache
+E:\FPT Aptech\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\DemoSession4_ASPNETCoreMVC.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT Aptech\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\DemoSession4_ASPNETCoreMVC.AssemblyInfoInputs.cache
+E:\FPT Aptech\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\DemoSession4_ASPNETCoreMVC.AssemblyInfo.cs
+E:\FPT Aptech\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\DemoSession4_ASPNETCoreMVC.csproj.CoreCompileInputs.cache
+E:\FPT Aptech\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\DemoSession4_ASPNETCoreMVC.MvcApplicationPartsAssemblyInfo.cache
+E:\FPT Aptech\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\DemoSession4_ASPNETCoreMVC.RazorAssemblyInfo.cache
+E:\FPT Aptech\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\DemoSession4_ASPNETCoreMVC.RazorAssemblyInfo.cs
+E:\FPT Aptech\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\staticwebassets.build.json
+E:\FPT Aptech\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\staticwebassets.development.json
+E:\FPT Aptech\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\scopedcss\bundle\DemoSession4_ASPNETCoreMVC.styles.css
+E:\FPT Aptech\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\DemoSession4_ASPNETCoreMVC.dll
+E:\FPT Aptech\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\refint\DemoSession4_ASPNETCoreMVC.dll
+E:\FPT Aptech\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\DemoSession4_ASPNETCoreMVC.pdb
+E:\FPT Aptech\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\DemoSession4_ASPNETCoreMVC.genruntimeconfig.cache
+E:\FPT Aptech\repos\DemoSession4_ASPNETCoreMVC\DemoSession4_ASPNETCoreMVC\obj\Debug\net6.0\ref\DemoSession4_ASPNETCoreMVC.dll
